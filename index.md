@@ -11,7 +11,7 @@
             margin: 0;
         }
 
-    </style>
+</style>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="bhat.html">Black Hat Visualzation</a></li>
@@ -20,7 +20,7 @@
           </ul>
     <script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
 
-    </script>
+</script>
     <svg width="1500" height="750"></svg>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
